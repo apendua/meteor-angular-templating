@@ -1,0 +1,8 @@
+{
+  "name": "angular-templating",
+  "description": "Use angularjs as a replacement for the standard meteor templating engine",
+  "homepage": "https://github.com/apendua/meteor-angular-templating",
+  "author": "Tomasz Lenarcik (https://github.com/apendua)",
+  "version": "0.0.1",
+  "git": "https://github.com/apendua/meteor-angular-templating.git"
+}
